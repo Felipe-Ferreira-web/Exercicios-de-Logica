@@ -6,7 +6,7 @@ Este Repositório é dedicado a registrar minhas soluções para os exercicíos 
 ---
 
 ### 📁 Até o momento estou solucionando problemas da(s) categorias:
-*[Beginner](https://judge.beecrowd.com/pt/problems/index/1)
+* [Beginner](https://judge.beecrowd.com/pt/problems/index/1)
 
 ---
 #### *👤 Meu perfil
